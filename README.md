@@ -1,7 +1,7 @@
 # Personality-Prediction-System
 Made with ❤️ by Kunal Khandelwal for his Final Year Project
 
-Demonstration of using data mining concepts and python data science libraries to analyse and classify personalities of a given set of people or an individual.
+I have done the demonstration of using <b>data mining concepts</b> and <b>python data science libraries</b> to analyse and classify personalities of a given set of people or an individual.
 
 ## Abstract
 The project uses learning algorithms and advanced data mining concepts to mine user characteristics data and learn from the patterns.
