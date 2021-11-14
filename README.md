@@ -4,7 +4,7 @@ Made with ❤️ by Kunal Khandelwal for his Final Year Project
 I have done the demonstration using <b>data mining concepts</b> & <b>python data science libraries</b> to <i>analyse & classify personalities of a given set of people or an individual</i>.
 
 ## Abstract
-The project uses learning algorithms and advanced data mining concepts to mine user characteristics data and learn from the patterns.
+The project uses learning algorithms & advanced data mining concepts to mine user characteristics data and learn from the patterns.
 This project will come across areas where it has access to large amounts of person behavioral data. This data can be helpful to classify persons using Automated personality prediction and classification. There are areas where there is access to large amounts of person behavioral data. This data can help us classify persons using automated personality classification.
 
 ## Approach
