@@ -1,5 +1,5 @@
 # Personality-Prediction-System
-Made with ❤️ by Kunal Khandelwal for his Final Year Project
+Made with ❤️ by Kunal Khandelwal for his Final Year Project.
 
 I have done the demonstration using <b>data mining concepts</b> & <b>python data science libraries</b> to <i>analyse & classify personalities of a given set of people or an individual</i>.
 
